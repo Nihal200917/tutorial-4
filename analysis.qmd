@@ -1,0 +1,13 @@
+---
+title: "Analysis"
+author: "Nihal Neeraj"
+format: html
+execute: 
+  echo: false
+---
+
+```{r}
+#| label: setup
+#| message: FALSE
+
+library(tidyverse)

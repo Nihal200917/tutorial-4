@@ -1,0 +1,16 @@
+---
+title: "Models"
+author: "Nihal Neeraj"
+format: html
+execute: 
+  echo: false
+---
+
+```{r}
+#| label: setup
+#| message: FALSE
+
+library(tidyverse)
+```
+
+The data we chose came from the 2024 after election, We utilized this data to predict how many votes did Joe Biden get from this years election
